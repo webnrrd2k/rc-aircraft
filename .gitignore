@@ -1,0 +1,6 @@
+# Slicer output and CAD backups
+*.gcode
+*.bgcode
+*.FCBak
+*.FCStd1
+*~
